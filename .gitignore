@@ -1,0 +1,12 @@
+config.yml
+.vscode
+.DS_Store
+.DS_Store?
+.cache
+.shopifyignore
+.babelrc
+.parcel-cache
+package.json
+package-lock.json
+yarn.lock
+node_modules
