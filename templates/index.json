@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "image_banner": {
@@ -58,7 +67,7 @@
         "color_scheme": "inverse",
         "full_width": true,
         "button_label": "LEARN MORE",
-        "button_link": "shopify:\/\/pages\/about",
+        "button_link": "shopify:\/\/pages\/our-space",
         "button_style_secondary": true,
         "padding_top": 88,
         "padding_bottom": 88
